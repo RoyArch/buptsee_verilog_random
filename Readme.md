@@ -1,5 +1,7 @@
-### Pin Planner
+# buptsee_verilog_random
 ******
+### Pin Planner
+
 ##### toplayer:
 clk->
 
